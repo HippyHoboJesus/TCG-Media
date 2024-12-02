@@ -4,7 +4,7 @@ function App() {
 
   return (
     <div>
-        <h1>TCG</h1>
+        <h1>TCG Media</h1>
     </div>
   );
 }
