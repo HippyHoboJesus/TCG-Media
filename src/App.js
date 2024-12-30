@@ -11,7 +11,6 @@ function App() {
       <div>
         <p>mtg</p>
         <p></p>
-        <p></p>
       </div>
     </div>
   );
