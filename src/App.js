@@ -10,7 +10,7 @@ function App() {
       <h1>info</h1>
       <div>
         <p>mtg</p>
-        <p></p>
+        <p>yugioh</p>
       </div>
     </div>
   );
