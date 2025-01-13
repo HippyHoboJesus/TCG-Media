@@ -4,6 +4,7 @@ function Footer() {
     return (
         <div>
             <div>Contact</div>;
+            <div>About</div>;
         </div>
     )
 }
