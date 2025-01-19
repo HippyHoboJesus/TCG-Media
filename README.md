@@ -5,3 +5,4 @@ Goals for app.
 -deckbuilding help
 -integrate api with database of cards (https://api.magicthegathering.io)
 -login and signup screens
+-messaging
