@@ -5,7 +5,7 @@ function Header() {
         <div>
             <div>Home</div>;
             <div>Planner</div>
-            <div>Shop</div>;
+            <div>Market</div>;
             <div>Profile</div>
         </div>
     )
