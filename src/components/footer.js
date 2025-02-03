@@ -5,7 +5,6 @@ function Footer() {
         <div>
             <div>Contact</div>;
             <div>About</div>;
-            <div>help</div>
         </div>
     )
 }
