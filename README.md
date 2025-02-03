@@ -7,4 +7,4 @@ Goals for app.
 -login and signup screens
 -messaging
 -export deck to other sights? stores?
-
+-ai
