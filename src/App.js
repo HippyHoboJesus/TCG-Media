@@ -9,7 +9,6 @@ function App() {
       <h1>info</h1>
       <div>
         <p></p>
-        <p></p>
       </div>
     </div>
   );
