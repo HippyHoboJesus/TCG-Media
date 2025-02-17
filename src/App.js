@@ -9,7 +9,7 @@ function App() {
       <h1>info</h1>
       <div>
         <p>mtg</p>
-        <p>shop</p>
+        <p></p>
       </div>
     </div>
   );
