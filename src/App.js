@@ -8,7 +8,6 @@ function App() {
     <div>
       <h1>info</h1>
       <div>
-        <p></p>
       </div>
     </div>
   );
