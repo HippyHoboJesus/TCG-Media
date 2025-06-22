@@ -4,8 +4,8 @@ function Header() {
     return (
         <div>
             <div></div>
-            <div>Shop</div>
-            <div>Profile</div>
+            <div></div>
+            <div></div>
         </div>
     )
 }
