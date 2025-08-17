@@ -5,7 +5,7 @@ function Header() {
         <div>
             <div>Home</div>
             <div>Profile</div>
-            <div>Messages</div>
+            <div></div>
         </div>
     )
 }
